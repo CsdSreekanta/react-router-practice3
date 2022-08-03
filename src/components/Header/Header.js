@@ -10,6 +10,7 @@ const Header = () => {
            <div className="bg-blue-700 p-3 flex justify-center">
            <CustomLink to='/home'>Home</CustomLink>
             <CustomLink to='/friends'>Friends</CustomLink>
+            <CustomLink to='/posts'>Posts</CustomLink>
             <CustomLink to='/contact'>Contact</CustomLink>
            </div>
         </nav>
